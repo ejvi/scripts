@@ -5,4 +5,4 @@ a bunch of bash scripts
 - **open_first_file:** Opens the first file in directory
 - **trash_first_file:** Moves the first file in directory to the trash bin **_(trash-cli required)_**
 
-scripts execute from /home/user
+**scripts execute from /home/user**
