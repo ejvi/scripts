@@ -1,5 +1,5 @@
 #!/bin/bash
-source "/home/ejvi/Scripts/dir"
+source "/path/to/dir_file"
 echo $dir
 cd "$dir"
 shopt -s nullglob
