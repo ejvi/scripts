@@ -1,5 +1,5 @@
 #!/bin/bash
-source "/path/to/dir_file"
+source "/path/to/dir.txt"
 echo $dir
 cd "$dir"
 shopt -s nullglob
