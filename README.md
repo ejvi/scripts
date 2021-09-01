@@ -1,5 +1,5 @@
 # scripts
-a bunch of bash scripts
+a bunch of bash, python scripts
 
 - **dir.txt:** Contains path to the directory
 - **open_first_file:** Opens the first file in directory with default app
