@@ -8,5 +8,5 @@ a bunch of bash, python scripts
 
 #### execute script from terminal
 ```
-sh /home/user_name/scripts/script_name
+sh /home/user_name/scripts/script_name.sh
 ```
