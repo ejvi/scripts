@@ -1,6 +1,6 @@
 #!/bin/bash
-source "./scripts/dir.txt"
-echo $dir
+cd "$(dirname "$(readlink -f "$0")")"
+. ./dir.txt
 cd "$dir"
 shopt -s nullglob
 set -- *
